@@ -1,0 +1,80 @@
+CONTEXT,PORTUGUÊS,ENGLISH
+upgrade info heal,Aumenta a Vida máxima.,Increases maximum Health.
+upgrade info,Aumenta a Stamina máxima.,Increase maximum Stamina.
+upgrade info,Aumenta o alcance do Pulo,Increase the Jump range.
+upgrade info,Aumenta o alcance do Arremesso de espada.,Increases the range for throwing your sword.
+upgrade info,Garante proteção contra 1 golpe. Regenera após uma sala,Ensures protection against 1 hit. Regenerates after 1 room
+upgrade info,Permite ao usuário recuperar sua espada à uma distância maior.,Allows the user to recover his sword at a greater distance.
+upgrade info,Recupera 2 pontos de Vida do usuário.,Recovers 2 HP.
+upgrade info,Recupera 1 ponto de Stamina a cada inimigo derrotado.,Recovers 1 stamina when defeating enemies.
+upgrade info,Aumenta a velocidade do usuário se a Vida estiver abaixo de 4 pontos.,Double the speed of the user if Hp is less than 4.
+upgrade info,Garantirá ao usuário causar 1 ponto de dano ao redor da área de pouso quando usar a habilidade Pulo.,Allow the user to deal 1 damage around the landing point when using Jump.
+upgrade info,,
+upgrade info,,
+upgrade info,,
+upgrade info,,
+upgrade info,,
+upgrade info,,
+upgrade info,,
+upgrade info,,
+upgrade info,,
+upgrade info,,
+upgrade info,,
+upgrade info,,
+upgrade info,,
+upgrade info,,
+upgrade info,,
+upgrade info,,
+upgrade info,,
+,,
+Menu (CAPS),CONTINUAR,CONTINUE
+Menu (CAPS),CONFIGURAÇÕES,OPTIONS
+Menu (CAPS),TELA INICIAL,TITLE SCREEN
+Menu (CAPS),JOGO PAUSADO,GAME PAUSED
+,TELA CHEIA,FULLSCREEN
+,EFEITOS SONOROS,SOUND EFFECTS
+,MÚSICA,MUSIC
+,IDIOMA,LANGUAGE
+,SEGURE PARA ABANDONAR RUN,HOLD TO ABANDON RUN
+,ATIVADO,ENABLE
+,DESATIVADO,DISABLE
+,PRESSIONE       PARA COMEÇAR,PRESS     TO START
+,SEM STAMINA,NOT ENOUGH STAMINA
+,VOLTAR,BACK
+,,
+,,
+Texto inicial,,
+Texto inicial,,
+Texto inicial,,
+Texto inicial,"BEM VINDO AO REINO DO VAZIO, VIAJANTE.","WELCOME TO THE VOID REALM, TRAVELER."
+Texto inicial,"DIFERENTE DA MAIORIA DAS HISTÓRIAS, ESSA NÃO COMEÇARÁ PELO PRINCÍPIO, OU PELO FIM, ESTA É UMA HISTÓRIA EM ANDAMENTO HÁ MUITO TEMPO.","UNLIKE MOST STORIES, YOU WILL NOT START AT THE BEGINNING, NOR AT THE END, THIS IS AN ONGOING STORY BEING WRITTEN SINCE LONG AGO."
+Texto inicial,"OLHE AO REDOR, VOCÊ PODE ACHAR QUE MORREU, MAS NADA AQUI VAI SER TÃO FÁCIL, NEM MESMO A MORTE.","LOOK AROUND. YOU MAY THINK YOU DIED, BUT NOTHING HERE WILL BE SO EASY TO CONQUER, EVEN DEATH."
+Texto inicial,"USE SUAS HABILIDADES, PEÇA AJUDA AOS DEUSES, VOCÊ VAI PRECISAR. BOA SORTE","USE YOUR SKILLS, PRAY TO YOUR GODS, YOU WILL NEED IT. GOOD LUCK"
+Texto inicial,UM JOGO POR: WIRED DREAMS STUDIO,A GAME BY: WIRED DREAMS STUDIO
+Texto inicial,"PROGRAMAÇÃO, ARTE E DESIGN: THIAGO OLIVEIRA","PROGRAMMING, ART AND GAME DESIGN BY: THIAGO OLIVEIRA"
+Texto inicial,MUSICA: VINCENT COLAVITA,MUSIC BY: VINCENT COLAVITA
+,,
+,,
+HUD,NÍVEL,FLOOR
+HUD,DASH,DASH
+HUD,LANÇAR,THROW
+HUD,PULAR,JUMP
+HUD,CURSOR,CURSOR
+HUD,SANGUE,BLOOD
+,,
+BOSS DEAD,GUARDIÃO ABATIDO,GUARDIAN SLAIN
+,,
+DEMO ENDING,OBRIGADO POR JOGAR A DEMO!,THANK YOU FOR PLAYING THE DEMO!
+DEMO ENDING,ADICIONE A WISHLIST PARA JOGAR O JOGO COMPLETO COM:,ADD THE GAME TO YOUR WISHLIST TO GET THE FULL GAME WITH:
+DEMO ENDING,- MAIS ÁREAS,- MORE AREAS
+DEMO ENDING,- MAIS INIMIGOS,- MORE ENEMIES
+DEMO ENDING,- MAIS UPGRADES,- MORE UPGRADES
+DEMO ENDING,- MAIS PERSONAGENS JOGÁVEIS (talvez***),- MORE PLAYABLE CHARACTERS (maybe***)
+DEMO ENDING,- 4 CHEFES,- 4 BOSSES
+DEMO ENDING,PRESSIONE Y PARA IR PARA A STEAM PAGE,PRESS Y TO  GO TO STEAM PAGE
+DEMO ENDING,PRESSIONE U PARA PROSSEGUIR,PRESS U TO PROCEED
+HUD,PULAR INTRO,SKIP INTRO
+TITLE,MAIS JOGOS,MORE GAMES
+TITLE,ADICIONE NA WISHLIST,ADD TO YOUR WISHLIST
+AREA NAME,CEMITÉRIO ESQUECIDO,FORGOTTEN GRAVEYARD
+AREA NAME,ARENA INFINITA,INFINITE ARENA
